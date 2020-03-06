@@ -1,0 +1,9 @@
+version: '3'
+services:
+  demo:
+    image: dtupay 
+    container_name: dtupay 
+    ports:
+     - "8080:8080"
+    
+ 

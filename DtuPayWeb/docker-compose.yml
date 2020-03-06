@@ -1,0 +1,9 @@
+version: '3'
+services:
+  demo:
+    image: report 
+    container_name: report 
+    ports:
+     - "80:8080"
+    
+ 
